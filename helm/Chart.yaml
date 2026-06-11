@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-workforce-development
+description: "BIAN Service Domain: Workforce Development (Develop pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - develop
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Human Resources"
+  bian/asset-type: "Workforce Plan"
+  bian/control-record: "Workforce Plan Development Project"
